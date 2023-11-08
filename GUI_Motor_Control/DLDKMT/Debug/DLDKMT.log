@@ -1,0 +1,6 @@
+﻿  DLDKMT.cpp
+  DLDKMTDlg.cpp
+D:\tailieu\nam3\202\DoLuongDKMT\bai1\DLDKMT\DLDKMT\DLDKMTDlg.cpp(256,4): warning C4101: 'my_union_t': unreferenced local variable
+D:\tailieu\nam3\202\DoLuongDKMT\bai1\DLDKMT\DLDKMT\DLDKMTDlg.cpp(258,8): warning C4101: 'my_num': unreferenced local variable
+  Generating Code...
+  DLDKMT.vcxproj -> D:\tailieu\nam3\202\DoLuongDKMT\bai1\DLDKMT\Debug\DLDKMT.exe
